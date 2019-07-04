@@ -1,0 +1,10 @@
+div{
+    background-color: #242424;
+}
+#logo{
+    background-image: url("/img/topbar.png");
+    height: 50px;
+    width: 200px;
+    background-position-x: 10px;
+    background-position-y: -10px;
+}
